@@ -686,11 +686,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5546747237540754326, guid: 566aa8c2459f5f94b8b6dc15592c7236, type: 3}
       propertyPath: m_ChunkCullingBounds.x
-      value: 0.03333336
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5546747237540754326, guid: 566aa8c2459f5f94b8b6dc15592c7236, type: 3}
       propertyPath: m_ChunkCullingBounds.y
-      value: 0.03333336
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6417281491485907076, guid: 566aa8c2459f5f94b8b6dc15592c7236, type: 3}
       propertyPath: m_RootOrder
